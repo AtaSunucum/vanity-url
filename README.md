@@ -1,5 +1,14 @@
 # Sunucunuz için vanity-url koruması.
 
-## Projenin adım geçirilmeden paylaşılması yasaktır. 
+## Kurulum
 
-### Ekstra modül kullanmayabilirsiniz bu sadece bir örnek herkes anlasın diye çoğu kişinin bildiği bir modül kullandım. HTTP ile yapabilirsiniz size kalmış bir karar. Veya direkt olarak Discord.JS ile yapabilirsiniz dediğim gibi size kalmış bir karar.
+1- Kodun en başındaki options objesini doldurun.
+
+2- Komut İstemcisini açıp bot klasörüne gelip <code>npm i</code> komutunu çalıştırın.
+
+3- <code>node main.js</code> yazarak çalıştırın.
+
+
+## NOT: Ekstra bir modül kullanmadan yapılabilecek versiyonları vardır, bunları biraz araştırma ile sadece discord.js modülü ile yapabilirsiniz.
+
+## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
