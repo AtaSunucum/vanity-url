@@ -8,7 +8,6 @@
 
 3- <code>node main.js</code> yazarak çalıştırın.
 
-
-## NOT: Ekstra bir modül kullanmadan yapılabilecek versiyonları vardır, bunları biraz araştırma ile sadece discord.js modülü ile yapabilirsiniz.
+### Sorunuz/Sıkıntınız veya başka bir konuda yardıma ihtiyacınız olursa elimden geldiğince yardım etmeye çalışırım. Discord profilim Github ana sayfamda yazıyor.
 
 ## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
