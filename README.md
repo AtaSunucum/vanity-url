@@ -1,5 +1,3 @@
-# vanity-url
-Sunucunuz için vanity-url koruması.
+# Sunucunuz için vanity-url koruması.
 
-
-## Projenin adım geçirilmeden paylaşılması yasaktır.
+## Projenin adım geçirilmeden paylaşılması yasaktır. 
