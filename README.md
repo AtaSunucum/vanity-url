@@ -9,5 +9,6 @@
 3- <code>node main.js</code> yazarak çalıştırın.
 
 ### Sorunuz/Sıkıntınız veya başka bir konuda yardıma ihtiyacınız olursa elimden geldiğince yardım etmeye çalışırım. Discord profilim Github ana sayfamda yazıyor.
+Ekstra olarak sadece discord.js kullanarak kısa bir araştırma ile bu komutu çok daha kısaltabilir ve geliştirebilirsiniz.
 
 ## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
