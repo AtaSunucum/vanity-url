@@ -1,3 +1,5 @@
+const { Client } = require('discord.js');
+const client = new Client();
 const request = require('request');
 let Options = {
     "Vanity_URL": "URL değişince yapılacak url.",
